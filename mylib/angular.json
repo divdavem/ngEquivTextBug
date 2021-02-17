@@ -18,6 +18,9 @@
           "configurations": {
             "production": {
               "tsConfig": "projects/mylib/tsconfig.lib.prod.json"
+            },
+            "partial": {
+              "tsConfig": "projects/mylib/tsconfig.lib.partial.json"
             }
           }
         },
