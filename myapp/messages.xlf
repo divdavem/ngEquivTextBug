@@ -5,7 +5,7 @@
       <trans-unit id="1638894134994447485" datatype="html">
         <source> Hello <x id="INTERPOLATION"/>! </source>
         <context-group purpose="location">
-          <context context-type="sourcefile">../mylib/dist/projects/mylib/src/lib/mylib.component.ts</context>
+          <context context-type="sourcefile">../mylib/projects/mylib/src/lib/mylib.component.ts</context>
           <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
